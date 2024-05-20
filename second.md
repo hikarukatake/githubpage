@@ -1,3 +1,6 @@
+# リンク
+[index.md](/index.md)
+
 # table表
 
 -と|を使ってtableを作成します。
